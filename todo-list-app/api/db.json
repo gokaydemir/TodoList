@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "0c7205bc-561b-47b4-8ead-b57230963676",
+      "todo": "React Çalış"
+    },
+    {
+      "id": "b85d1627-0c88-47ce-adaf-eed31f8cb9d9",
+      "todo": "Spora Git"
+    },
+    {
+      "id": "e10fe4f2-eb94-4a28-a803-860e7f5f411a",
+      "todo": "Angular Çalış"
+    }
+  ]
+}
